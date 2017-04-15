@@ -1,6 +1,10 @@
+import $ from 'jquery';
+
 class MobileMenu{
     constructor(){
-        alert('testing from mobile menu');
+        $('.site-header__menu-icon').on('click',function(){
+          console.log('click');
+        })
     }
 }
 export default MobileMenu;

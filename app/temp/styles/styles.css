@@ -1181,10 +1181,6 @@ instead edit gulp/temp/sprite
   }
 }
 
-.site-header__menu-icon:hover{
-  background-color:#66ccff;
-}
-
 .site-header__menu-content{
   display: none;
 }
