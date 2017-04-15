@@ -1,9 +1,9 @@
-// class MobileMenu{
-//     constructor(){
-//         alert('testing from mobile menu');
-//     }
-// }
-//export default MobileMenu;
+class MobileMenu{
+    constructor(){
+        alert('testing from mobile menu');
+    }
+}
+export default MobileMenu;
 
 /*
 import $ from 'jquery';
