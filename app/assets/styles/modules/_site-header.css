@@ -39,6 +39,9 @@
       display: none;
     }
   }
+  &__menu-icon:hover{
+    background-color:#66ccff;
+  }
 
   &__menu-content{
   display: none;
